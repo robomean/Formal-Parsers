@@ -1,5 +1,5 @@
 # Parsers
-## Hello! This is my repo dedicated to formal language and parsers.
+## Hello! This is my repo dedicated to formal languages and parsers.
 To run the tests, write in the console: 
 1) chmod +x test.sh 
 2) ./test.sh\
